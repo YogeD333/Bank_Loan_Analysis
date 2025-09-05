@@ -133,14 +133,7 @@ The goal is to analyze loan data and answer key business questions such as:
 
 .
 ├── Finance_Loan_Project.ipynb # Main analysis notebook
-├── data/ # (Optional) dataset folder
-├── images/ # (Optional) saved charts
 └── README.md
-
-yaml
-Copy code
-
----
 
 ## ▶️ How to Run
 
