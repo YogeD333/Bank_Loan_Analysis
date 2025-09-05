@@ -178,7 +178,4 @@ Bad Loan Percentage: 13.82%
 
 👤 Author
 Yogeshwaran P
-
-LinkedIn
-
-GitHub
+https://www.linkedin.com/in/yogeshwaran-analytics/
