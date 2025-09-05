@@ -38,7 +38,6 @@ The goal is to analyze loan data and answer key business questions such as:
 3. **Loan Term Analysis (Donut Chart)** – loan term distribution  
 4. **Employee Length Analysis (Bar Chart)** – impact of employment length  
 5. **Loan Purpose Breakdown (Bar Chart)** – main reasons for borrowing  
-6. **Home Ownership Analysis (Tree/Heat Map)** – how ownership impacts loans  
 
 ---
 
@@ -63,17 +62,14 @@ The goal is to analyze loan data and answer key business questions such as:
 ▶️ How to Run
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/YogeD333/Bank_Loan_Analysis.git
    cd Bank_Loan_Analysis
 Install required libraries:
 
-bash
 Copy code
 pip install pandas numpy matplotlib seaborn openpyxl jupyter
 Open the notebook:
 
-bash
 Copy code
 jupyter notebook Finance_Loan_Project.ipynb
 📌 Key Results 
@@ -138,17 +134,14 @@ The goal is to analyze loan data and answer key business questions such as:
 ## ▶️ How to Run
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/YogeD333/Bank_Loan_Analysis.git
    cd Bank_Loan_Analysis
 Install required libraries:
 
-bash
 Copy code
 pip install pandas numpy matplotlib seaborn openpyxl jupyter
 Open the notebook:
 
-bash
 Copy code
 jupyter notebook Finance_Loan_Project.ipynb
 📌 Key Results 
